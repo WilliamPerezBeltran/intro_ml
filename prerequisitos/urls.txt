@@ -1,0 +1,8 @@
+https://es.khanacademy.org/math/linear-algebra
+https://es.khanacademy.org/math/differential-equations
+https://es.khanacademy.org/math/probability
+https://es.khanacademy.org/math/ap-statistics
+https://es.khanacademy.org/math/precalculus
+https://es.khanacademy.org/math/algebra2
+https://es.khanacademy.org/math/ap-calculus-ab
+https://es.khanacademy.org/math/ap-calculus-bc
