@@ -1,0 +1,8 @@
+This archive contains the source code for the CAT-SOOP instance at https://introml_oll.odl.mit.edu/cat-soop, automatically generated on Wednesday November 27, 2024 at 02:30:37 PM.
+
+The (potentially modified) source of the base system is located in the "catsoop" directory.
+
+If the course from which this code was downloaded (Introduction to Machine Learning   Spring 2019) used any plugins (including custom question types or content handlers), these are located in the "6.036" directory.
+
+CAT-SOOP
+https://catsoop.mit.edu
